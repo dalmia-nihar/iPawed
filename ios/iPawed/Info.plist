@@ -51,6 +51,10 @@
 			</dict>
 		</dict>
 	</dict>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Storing photos of your pet for your personal enjoyment!</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Taking photos of your pet for your personal enjoyment!</string>
 	<key>UIAppFonts</key>
 	<array>
 		<string>Entypo.ttf</string>
@@ -64,6 +68,26 @@
 		<string>Octicons.ttf</string>
 		<string>SimpleLineIcons.ttf</string>
 		<string>Zocial.ttf</string>
+		<string>Century Gothic.ttf</string>
+		<string>CenturyGothic.ttf</string>
+		<string>GOTHIC.TTF</string>
+		<string>GOTHICB.TTF</string>
+		<string>GOTHICB0.TTF</string>
+		<string>GOTHICBI.TTF</string>
+		<string>GOTHICI.TTF</string>
+		<string>SignPainter HouseScript Regular.ttf</string>
+		<string>rubicon-icon-font.ttf</string>
+		<string>Rubik-Black.ttf</string>
+		<string>Rubik-BlackItalic.ttf</string>
+		<string>Rubik-Bold.ttf</string>
+		<string>Rubik-BoldItalic.ttf</string>
+		<string>Rubik-Italic.ttf</string>
+		<string>Rubik-Light.ttf</string>
+		<string>Rubik-LightItalic.ttf</string>
+		<string>Rubik-Medium.ttf</string>
+		<string>Rubik-MediumItalic.ttf</string>
+		<string>Rubik-Regular.ttf</string>
+		<string>SignPainter-HouseScript.ttf</string>
 	</array>
 </dict>
 </plist>
